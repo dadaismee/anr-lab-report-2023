@@ -2,51 +2,6 @@
 chapter: 010
 ---
 
-# Title of Chapter
+# Это отчёт
 
-Paragraph. [Link](https://example.com)
-
-## Section
-
-Paragraph. *Italics* and **bold**. 
-
-List:
-
-- item
-- item
-- item
-
-::: box :::
-
-Boxes are useful for drawing attention to a main point.
-
-:::
-
-### Subsection
-
-> Blockquote...
-
-Ordered list:
-
-1.
-1.
-1.
-1.
-
-#### Excercise
-
-::: {.question text="Write the question here."} :::
-
-Write the solution here.
-
-:::
-
-#### Definitions
-
-item
-
-: item's definition
-
-another item
-
-: another item's definition.
+Да, это отчёт. А вот это формула: $U(p) = \overbrace{\underbrace{100}_{u(x_1)} * \underbrace{0.5}_{p_1} + \underbrace{(-50)}_{u(x_2)} * \underbrace{0.5}_{p_2}}^\sum = 50 - 25 = \mathbf{25}$
